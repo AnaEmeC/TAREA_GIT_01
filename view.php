@@ -1,0 +1,4 @@
+<?
+// creamos el fichero
+
+?>
